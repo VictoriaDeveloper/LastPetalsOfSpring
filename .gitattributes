@@ -1,0 +1,2 @@
+GameExecutable/Windows/Engine/Binaries/Win64/UnrealGame.pdb filter=lfs diff=lfs merge=lfs -text
+GameExecutable/Windows/LastPetalsOfSpring/Content/Paks/LastPetalsOfSpring-Windows.ucas filter=lfs diff=lfs merge=lfs -text
